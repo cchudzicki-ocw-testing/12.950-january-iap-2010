@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: Simple MPI examples
-type: OCWFile
 uid: 05c16681-059f-1859-a557-2c448b27bfb2
 ---

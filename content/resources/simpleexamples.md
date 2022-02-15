@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: Simple examples
-type: OCWFile
 uid: 7a10eee7-b8ac-0367-e80d-1d1095aa65bd
 ---

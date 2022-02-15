@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Advanced MPI-1
-type: OCWFile
 uid: ac10e316-fb79-7b90-b991-3f9442dba294
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: More Pt2Pt and Collective Communications
-type: OCWFile
 uid: 3fda774b-f419-18c4-4567-b60d18ad2e30
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: More openMP codes
-type: OCWFile
 uid: ad81773b-3d40-7e02-d7f5-ad051a438073
 ---
