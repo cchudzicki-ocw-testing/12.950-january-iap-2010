@@ -62,7 +62,7 @@ Problem set 3 ({{% resource_link 3fc0048c-de65-f4f9-7830-747947e82a28 "PDF" %}})
 Problem set 4 ({{% resource_link beaac21e-927f-c993-300e-cf81140196ba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Time a simulated halo exchange ([F](/courses/earth-atmospheric-and-planetary-sciences/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/assignments/Halo.f))
+Time a simulated halo exchange ({{% resource_link a6688a42-ed2c-5e44-a8df-30bbe0ad70e1 "F" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
