@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: More openMP codes
 uid: ad81773b-3d40-7e02-d7f5-ad051a438073
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

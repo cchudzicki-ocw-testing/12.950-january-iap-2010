@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Advanced MPI-1
 uid: ac10e316-fb79-7b90-b991-3f9442dba294
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

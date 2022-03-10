@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Simple examples
 uid: 7a10eee7-b8ac-0367-e80d-1d1095aa65bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

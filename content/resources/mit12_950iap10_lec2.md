@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Parallel Computing and MPI Pt2Pt
 uid: d38f3c6b-eb50-fdf3-c4fd-cca37008c25f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: More Pt2Pt and Collective Communications
 uid: 3fda774b-f419-18c4-4567-b60d18ad2e30
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

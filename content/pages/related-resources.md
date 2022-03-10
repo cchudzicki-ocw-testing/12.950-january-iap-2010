@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: cb4a331e-fc3f-84fa-55b9-f3fd3b829908
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 General MPI Information
