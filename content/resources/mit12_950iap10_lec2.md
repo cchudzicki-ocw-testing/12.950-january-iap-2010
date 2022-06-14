@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on OpenMP, MPI Pt2Pt, EC2 cluster and Vmware image
   demo, OpenMP 3.0 enhancements, fundamentals of distributed memory programming, MPI
   concepts, and blocking point to point communications.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/d38f3c6beb50fdf3c4fdcca37008c25f_MIT12_950IAP10_Lec2.pdf
+file: /courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/d38f3c6beb50fdf3c4fdcca37008c25f_MIT12_950IAP10_Lec2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -19,3 +19,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture presentation on OpenMP, MPI Pt2Pt, EC2 cluster and Vmware image demo, OpenMP 3.0 enhancements, fundamentals of distributed memory programming, MPI concepts, and blocking point to point communications.
