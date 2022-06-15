@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources on the Message Passing
+  Interface (MPI), non-commercial MPI implementations, and useful libraries for parallel
+  programming for multicore machines.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
